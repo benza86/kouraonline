@@ -7,6 +7,15 @@
     "submenu":"فيديوهات",
     "iap":false,
     "tabs":[
+	            {
+        "title":"الاهداف و الملخصات",
+        "provider":"youtube",
+        "arguments":[
+          "UC7zHtTNiRxW-OR6etKH644A",
+          "channel"
+        ]
+      },  
+	
 	        {
         "title":"الاهداف و الملخصات",
         "provider":"youtube",
@@ -17,6 +26,14 @@
       },  
 	
 	 
+	       {
+        "title":"الاهداف و الملخصات",
+        "provider":"youtube",
+        "arguments":[
+          "UCtAFuD-iHvzKjtfJhMCHiLw",
+          "channel"
+        ]
+      },  
 	
 	         {
         "title":"دوريات عربية",
@@ -85,15 +102,7 @@
       },
 	
 	 
-	          {
-        "title":"أخبار الرياضة",
-        "provider":"youtube",
-        "arguments":[
-          "UC51TwW6evn4oWD8rPBZVynQ",
-          "channel"
-
-        ]
-      },
+	
 	    	          {
         "title": "On Sport",
         "provider":"youtube",
